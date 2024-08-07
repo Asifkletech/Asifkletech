@@ -43,7 +43,7 @@ I am an Artificial Intelligence enthusiast <img src="https://media.giphy.com/med
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Asifkletech&show_icons=true&theme=transparent&rank_icon=github&hide=stars,prs,issues&show_owner=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifkletech&hide_progress=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifkletech&hide_progress=False&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
