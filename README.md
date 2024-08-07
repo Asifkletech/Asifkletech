@@ -33,7 +33,7 @@ I am an Artificial Intelligence enthusiast <img src="https://media.giphy.com/med
 
 - :zap: In my free time, I read tech articles and hone my soft skills.
 
-- :mailbox:How to reach me: aasifmusafir@gmail.com <!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/asif-musafir/)
+- :mailbox:How to reach me: aasifmusafir@gmail.com <!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/asif-musafir/")
 -->
 
 ---
@@ -43,7 +43,7 @@ I am an Artificial Intelligence enthusiast <img src="https://media.giphy.com/med
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Asifkletech&show_icons=true&theme=transparent&rank_icon=github&hide=stars,prs,issues&show_owner=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifkletech&hide_progress=False&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifkletech&hide_progress=True&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
